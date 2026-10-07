@@ -16,8 +16,8 @@ Web Developer | Information Technology Graduate
 - Tourism Demand Forecasting
 
 ## Education
-- B.Tech IT, Kalasalingam Academy of Research and Education (2023–2026), CGPA 8.29
-- Diploma in Computer Engineering, Arulmigu Kalasalingam Polytechnic College (2019–2022), 93.41%
+- B.Tech IT, Kalasalingam Academy of Research and Education , CGPA 8.29
+- Diploma in Computer Engineering, Arulmigu Kalasalingam Polytechnic College , 93.41%
 
 ## Internship & Publication
 - Data Science Internship — Ether Services, Coimbatore (2024)
